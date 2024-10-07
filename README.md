@@ -1,3 +1,3 @@
 # Parent styles
 
-# React based application to show profile of parents. 
+ React based application to show profile of parents. 
